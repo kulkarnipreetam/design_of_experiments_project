@@ -1,6 +1,6 @@
-# 🧵 Design of Experiments: Additive Manufacturing (PLA Tensile Strength)
+# 🧵 Investigating Additive Manufacturing Parameters: A DOE Approach on PLA Strength
 
-The project explores how key 3D printing parameters—specifically infill percentage and print speed—impact the tensile strength of PLA parts produced via additive manufacturing.
+The project explores how key 3D printing parameters—specifically infill percentage and print speed—affect the tensile strength of parts printed using PLA (Polylactic Acid), a biodegradable thermoplastic widely used in additive manufacturing.
 
 ---
 
